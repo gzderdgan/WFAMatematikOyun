@@ -1,0 +1,10 @@
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\bin\Debug\WFAMatematikOyun.exe.config
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\bin\Debug\WFAMatematikOyun.exe
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\bin\Debug\WFAMatematikOyun.pdb
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.csprojAssemblyReference.cache
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.Form1.resources
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.Properties.Resources.resources
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.csproj.GenerateResource.cache
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.csproj.CoreCompileInputs.cache
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.exe
+C:\Users\Gozde Erdogan\source\repos\WFAMatematikOyun\WFAMatematikOyun\obj\Debug\WFAMatematikOyun.pdb
